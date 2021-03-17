@@ -1,0 +1,158 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+	
+}
+body{
+	background-color:#eee;
+	font-family: 'Redressed', cursive;
+}
+header{
+	margin-bottom:15px;
+}
+.container{
+    background-color: #92C3AF ;
+    margin:0 auto;
+    max-width:1000px;
+	
+}	
+.profile-img{
+	width:150px;
+	height:150px;
+	padding:4px;
+	border-radius: 10%;
+	float:left;
+}
+.bio{
+	float:left;
+	
+	padding:20px;
+	font-size:20px;
+}
+.bio h1{
+	margin-bottom:4px;
+	
+}
+.bio h3{
+	
+	
+}
+h1,h2,h3,h4,h5{
+    color:#047648;	
+}
+.header-contact{
+	float:right;
+	padding:10px
+	
+	
+}
+.header-contact a:hover{
+	color:tomato;
+}	
+.header-contact a{
+	
+text-decoration:none;	
+font-size:15px;
+
+
+	
+}
+
+.dive-clear{
+	clear:both;
+	
+}
+hr{
+	width:100%;
+	border:3px black solid;
+	border-bottom:none
+	
+	
+}
+.personal-section{
+	margin-top:12px;
+}
+.content{
+	
+}
+.left-div{
+	width:30%;
+	float:left;
+}
+.right-div{
+	width:70%;
+	float:left;
+}
+.Education{
+	
+}
+.Education .right-div{
+	width:35%;
+	float:;
+}
+.hr1{
+	width:100%;
+	border:1px black solid;
+	border-bottom:none
+}
+pre{
+	font-family: 'Redressed', cursive;
+}
+.Work-Experience{
+	
+}
+.Work-Experience .right-div{
+	margin-left:20px;
+}
+.Key-Skills{
+	
+}
+.Key-Skills .right-div{
+	width:18%;
+	float:left;
+	padding:14px;
+	font-family: 'Redressed', cursive;
+	font-size:16px
+}
+.References{
+	
+}
+.References .right-div{
+	width:30%;
+    padding:15px;
+	rloat:left;
+}
+
+.f{
+	height:100px;
+	width:100%;
+	background-color:black;  ;
+	
+	text-align:center;
+	font-size:25px;
+	padding:15px;
+}
+.f a{
+	
+	color:#E2DF86 ;
+	margin:20px;
+	text-decoration:none;
+	
+}
+
+p{
+	color:#8D8C82 ;
+	font-size:17px;
+	margin-top:10px;
+
+	
+	
+}
+.Certifications .right-div{
+	margin-left:20px;
+	width:50%;
+}
+.Key-Skills .right-div ul{
+	margin-left:10px;
+}
